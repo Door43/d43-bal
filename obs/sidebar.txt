@@ -1,11 +1,33 @@
 
 ----
 ~~NOCACHE~~
-**[[bal:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>bal:obs:stories}}
+  * [[bal:home|Door43 (bal)]]
 
+**Resources**
+
+  * [[bal:obs|Open Bible Stories (bal)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bal|d43-bal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bal/archive/master.zip|d43-bal.zip]]
+
+**Recent Changes**
+{{changes>ns = bal}}
 
 **Latest Status**
 {{page>en:uwadmin:bal:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bal|Ethnologue data]]
+
+**Resources**
+
+  * [[bal:obs|Open Bible Stories (bal)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:bal:obs:status}}
